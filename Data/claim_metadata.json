@@ -1,0 +1,133 @@
+{
+  "page_1": {
+    "page_number": 1,
+    "header": "Claim Introduction and Overview",
+    "involved_parties": [
+      "Sarah Mitchell",
+      "Progressive Auto Insurance",
+      "Claims Department"
+    ],
+    "date": "2024-01-15",
+    "type": "Overview",
+    "character_count": 1306
+  },
+  "page_2": {
+    "page_number": 2,
+    "header": "Event 1: Initial Collision",
+    "involved_parties": [
+      "Sarah Mitchell",
+      "Robert Chen",
+      "Seattle Police Department",
+      "Officer James Wilson"
+    ],
+    "date": "2024-01-15 09:23:45",
+    "type": "Details",
+    "character_count": 1410
+  },
+  "page_3": {
+    "page_number": 3,
+    "header": "Event 2: Emergency Response and Assessment",
+    "involved_parties": [
+      "Seattle Fire Department",
+      "Medic Unit 47",
+      "Paramedic Jennifer Ross",
+      "Officer James Wilson",
+      "Sarah Mitchell"
+    ],
+    "date": "2024-01-15 09:31:22",
+    "type": "Details",
+    "character_count": 1437
+  },
+  "page_4": {
+    "page_number": 4,
+    "header": "Event 3: Investigation and Medical Documentation",
+    "involved_parties": [
+      "Dr. Michael Patterson",
+      "Sarah Mitchell",
+      "Claims Adjuster Linda Martinez",
+      "Police Investigation Unit"
+    ],
+    "date": "2024-01-15 14:45:18",
+    "type": "Details",
+    "character_count": 1466
+  },
+  "page_5": {
+    "page_number": 5,
+    "header": "Event 4: Vehicle Inspection and Repair Assessment",
+    "involved_parties": [
+      "Premier Auto Body Shop",
+      "Certified Inspector Thomas Blake",
+      "Sarah Mitchell",
+      "Progressive Insurance Adjuster"
+    ],
+    "date": "2024-01-16 10:30:00",
+    "type": "Details",
+    "character_count": 1622
+  },
+  "page_6": {
+    "page_number": 6,
+    "header": "Event 5: Medical Follow-up and Physical Therapy",
+    "involved_parties": [
+      "Dr. Michael Patterson",
+      "Sarah Mitchell",
+      "Physical Therapist Amanda Chen",
+      "Seattle Rehabilitation Center"
+    ],
+    "date": "2024-01-22 08:00:00",
+    "type": "Details",
+    "character_count": 1708
+  },
+  "page_7": {
+    "page_number": 7,
+    "header": "Witness Statement and Traffic Analysis",
+    "involved_parties": [
+      "Marcus Thompson",
+      "Seattle Police Department",
+      "Traffic Engineer Dr. Susan Miller",
+      "Video Forensics Team"
+    ],
+    "date": "2024-01-15 11:45:00",
+    "type": "Details",
+    "character_count": 1727
+  },
+  "page_8": {
+    "page_number": 8,
+    "header": "Financial Breakdown and Insurance Coverage",
+    "involved_parties": [
+      "Progressive Auto Insurance",
+      "Claims Adjuster Linda Martinez",
+      "Sarah Mitchell",
+      "Finance Department"
+    ],
+    "date": "2024-01-17 09:00:00",
+    "type": "Details",
+    "character_count": 1716
+  },
+  "page_9": {
+    "page_number": 9,
+    "header": "Legal Documentation and Liability Determination",
+    "involved_parties": [
+      "Seattle Police Department",
+      "Officer James Wilson",
+      "Robert Chen",
+      "Chen's Insurance - State Farm",
+      "Legal Department"
+    ],
+    "date": "2024-01-18 13:30:00",
+    "type": "Details",
+    "character_count": 1909
+  },
+  "page_10": {
+    "page_number": 10,
+    "header": "Claim Resolution and Final Summary",
+    "involved_parties": [
+      "Progressive Auto Insurance",
+      "Sarah Mitchell",
+      "Claims Department",
+      "Finance Department"
+    ],
+    "date": "2024-02-05",
+    "type": "Overview",
+    "character_count": 1695
+  }
+}
